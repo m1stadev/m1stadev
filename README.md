@@ -2,7 +2,7 @@
 
 
 ### About Me
-i'm a python developer that loves to make iOS devices do stuff that they're not supposed to do
+I'm a Python developer that loves to mess around with iOS devices!
 
 ### Projects
 - [Inferius](https://github.com/marijuanARM/Inferius/) - A tool for creating & restoring custom IPSWs onto an iOS device, similarly to xpwn.
