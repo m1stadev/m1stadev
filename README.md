@@ -7,6 +7,7 @@ I'm a Python developer that loves to mess around with iOS devices!
 ### Projects
 - [Inferius](https://github.com/marijuanARM/Inferius/) - A tool for creating & restoring custom IPSWs onto an iOS device, similarly to xpwn.
 - [homebrew-discord](https://github.com/marijuanARM/homebrew-discord/) A discord bot to fetch package information using the [Homebrew](https://brew.sh/) API.
+- [ios-tools](https://github.com/marijuanARM/ios-tools/) A repository for various Python scripts that are related to iOS jailbreaking.
 
 ### Contributions
 - I've ported multiple packages to [Procursus](https://github.com/ProcursusTeam/Procursus/), a modern iOS bootstrap with frequently updated UNIX tools.
