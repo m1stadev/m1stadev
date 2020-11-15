@@ -20,6 +20,6 @@ I'm a Python developer that loves to mess around with iOS devices!
 [![https://github-readme-stats.vercel.app/api?username=marijuanARM&show_icons=true](https://github-readme-stats.vercel.app/api?username=marijuanARM&show_icons=true)](https://github.com/marijuanARM/)
 
 ### Contact Information
-- `M1sta#1356` on [Discord](https://discord.com/
+- `M1sta#1356` on [Discord](https://discord.com/)
 - [M1staAwesome](https://reddit.com/u/M1staAwesome) on [Reddit](https://reddit.com/)
 - [marijuanARM](https://twitter.com/marijuanARM) on [Twitter](https://twitter.com/)
