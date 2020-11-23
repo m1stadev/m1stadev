@@ -17,7 +17,11 @@ I'm a Python developer that loves to mess around with iOS devices!
 
 ### GitHub Stats
 
-[![https://github-readme-stats.vercel.app/api?username=marijuanARM&show_icons=true](https://github-readme-stats.vercel.app/api?username=marijuanARM&show_icons=true)](https://github.com/marijuanARM/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=marijuanARM&show_icons=true)](https://github.com/marijuanARM/)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marijuanARM&layout=compact&langs_count=6&hide=assembly)](https://github.com/marijuanARM/)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marijuanARM)](https://github.com/marijuanARM/)
 
 ### Contact Information
 - `M1sta#1356` on [Discord](https://discord.com/)
