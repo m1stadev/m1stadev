@@ -8,7 +8,7 @@ I'm a Python developer that loves to mess around with iOS devices!
 - [Inferius](https://github.com/marijuanARM/Inferius/) - A tool for creating & restoring custom IPSWs onto an iOS device, similarly to xpwn.
 - [homebrew-discord](https://github.com/marijuanARM/homebrew-discord/) - A discord bot to fetch package information using the [Homebrew](https://brew.sh/) API.
 - [ios-tools](https://github.com/marijuanARM/ios-tools/) - A repository for various Python scripts that are related to iOS jailbreaking.
-- [AutoTSS](https://github.com/marijuanARM/autotss/) - A blob saver based on [codsane's autotss](https://github.com/codsane/autotss) that can save blobs for multiple devices, and saves OTA/Beta blobs too!
+- [AutoTSS](https://github.com/marijuanARM/autotss/) - A python script to save SHSH blobs for all of your devices, quickly and easily.
 - [Criptam](https://github.com/marijuanARM/Criptam/) - A tool to automate decrypting/saving/uploading Firmware Keys for iOS devices
 
 ### Contributions
