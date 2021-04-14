@@ -5,14 +5,15 @@
 I'm a Python developer that loves to mess around with iOS devices!
 
 ### Projects
-- [Inferius](https://github.com/marijuanARM/Inferius/) - A tool for creating & restoring custom IPSWs onto an iOS device, similarly to xpwn.
-- [ios-tools](https://github.com/marijuanARM/ios-tools/) - A repository for various Python scripts that are related to iOS jailbreaking.
+
 - [AutoTSS](https://github.com/marijuanARM/autotss/) - A Discord bot to save SHSH blobs for all of your devices, quickly and easily.
 - [AutoTSS-cli](https://github.com/marijuanARM/autotss-cli/) - AutoTSS, but CLI.
 - [Criptam](https://github.com/marijuanARM/Criptam/) - A tool to automate decrypting/saving/uploading Firmware Keys for iOS devices.
+- [Inferius](https://github.com/marijuanARM/Inferius/) - A tool for creating & restoring custom IPSWs onto an iOS device, similarly to xpwn.
+- [ios-tools](https://github.com/marijuanARM/ios-tools/) - A repository for various Python scripts that are related to iOS jailbreaking.
 
 ### Contributions
-- I've ported multiple packages to [Procursus](https://github.com/ProcursusTeam/Procursus/), a modern iOS bootstrap with frequently updated UNIX tools.
+- I've ported multiple packages to [Procursus](https://github.com/ProcursusTeam/Procursus/), a modern *OS bootstrap with frequently updated UNIX tools.
 - I help maintain [Sileo's Featured Page](https://github.com/Sileo/featuredpage/), which is a curated page of tweaks & themes for all jailbroken iOS devices that use Sileo.
 
 ### GitHub Stats
