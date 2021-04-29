@@ -11,6 +11,7 @@ I'm a Python developer that loves to mess around with iOS devices!
 - [Criptam](https://github.com/marijuanARM/Criptam/) - A tool to automate decrypting/saving/uploading Firmware Keys for iOS devices.
 - [Inferius](https://github.com/marijuanARM/Inferius/) - A tool for creating & restoring custom IPSWs onto an iOS device, similarly to xpwn.
 - [ios-tools](https://github.com/marijuanARM/ios-tools/) - A repository for various Python scripts that are related to iOS jailbreaking.
+- [Phantom](https://github.com/marijuanARM/Phantom/) - My personal Discord bot aimed at replacing the functionality of other major Discord bots.
 
 ### Contributions
 - I've ported multiple packages to [Procursus](https://github.com/ProcursusTeam/Procursus/), a modern *OS bootstrap with frequently updated UNIX tools.
