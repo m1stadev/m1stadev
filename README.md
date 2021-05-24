@@ -2,7 +2,7 @@
 
 
 ### About Me
-I'm a Python developer that loves to mess around with iOS devices!
+I'm a Python developer that's interested in iOS jailbreaking, and tinkering with iOS devices!
 
 ### Projects
 
