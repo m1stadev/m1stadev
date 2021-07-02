@@ -1,4 +1,4 @@
-# hi! i'm adam
+# hey! i'm adam
 
 
 ### About Me
