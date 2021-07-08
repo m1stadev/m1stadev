@@ -11,7 +11,7 @@ I'm a Python developer that's interested in iOS jailbreaking.
 | [Phantom](https://github.com/m1stadev/Phantom)            | Personal Discord bot aimed at replacing functions of popular Discord bots.     |
 | [Criptam](https://github.com/m1stadev/Criptam)            | A tool to automate decrypting/saving/uploading Firmware Keys for iOS devices.  |
 | [ios-tools](https://github.com/m1stadev/ios-tools)        | Python scripts of varying usefulness related to iOS jailbreaking.              |
-| [AutoTSS-cli](https://github.com/m1stadev/autotss-cli)    | AutoTSS, but CLI.                                                              |
+| [AutoTSS-cli](https://github.com/m1stadev/autotss-cli)    | [AutoTSS](https://github.com/m1stadev/AutoTSS), but CLI.                       |
 
 ### Contributions
 - I've ported multiple packages to [Procursus](https://github.com/ProcursusTeam/Procursus), a powerful and modern *OS bootstrap + cross compilation system with frequently updated UNIX tools.
