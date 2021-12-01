@@ -6,11 +6,11 @@ I'm a Python developer that's interested in iOS jailbreaking.
 ## Projects
 | Project                                                   | Description                                                                    |
 |-----------------------------------------------------------|--------------------------------------------------------------------------------|
-| [Inferius](https://github.com/m1stadev/Inferius)          | Create & Restore 64-bit custom IPSWs                                           |
 | [AutoTSS](https://github.com/m1stadev/AutoTSS)            | A Discord bot that automatically saves SHSH blobs for all of your iOS devices. |
+| [ios-beta-api](https://github.com/m1stadev/ios-beta-api)  | A Flask API that serves signing status + other info on iOS beta firmwares.     |
+| [Inferius](https://github.com/m1stadev/Inferius)          | Create & Restore 64-bit custom IPSWs.                                          |
 | [Phantom](https://github.com/m1stadev/Phantom)            | Personal Discord bot aimed at replacing functions of popular Discord bots.     |
 | [Criptam](https://github.com/m1stadev/Criptam)            | A tool to automate decrypting/saving/uploading Firmware Keys for iOS devices.  |
-| [ios-tools](https://github.com/m1stadev/ios-tools)        | Python scripts of varying usefulness related to iOS jailbreaking.              |
 | [AutoTSS-cli](https://github.com/m1stadev/autotss-cli)    | [AutoTSS](https://github.com/m1stadev/AutoTSS), but CLI.                       |
 
 ### Contributions
