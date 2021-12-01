@@ -14,7 +14,7 @@ I'm a Python developer that's interested in iOS jailbreaking.
 | [AutoTSS-cli](https://github.com/m1stadev/autotss-cli)    | [AutoTSS](https://github.com/m1stadev/AutoTSS), but CLI.                       |
 
 ### Contributions
-- I've ported multiple packages to [Procursus](https://github.com/ProcursusTeam/Procursus), a powerful and modern *OS bootstrap + cross compilation system with frequently updated UNIX tools.
+- I'm a maintainer of [Procursus](https://github.com/ProcursusTeam/Procursus), a powerful and modern *OS bootstrap + cross compilation system with frequently updated UNIX tools.
 - I help maintain [Sileo's Featured Page](https://github.com/Sileo/featuredpage), which is a curated page of tweaks & themes for all jailbroken iOS devices that use Sileo.
 
 ### GitHub Stats
