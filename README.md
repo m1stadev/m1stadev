@@ -7,11 +7,10 @@ I'm a Python developer that's interested in iOS jailbreaking.
 | Project                                                    | Description                                                                    |
 |------------------------------------------------------------|--------------------------------------------------------------------------------|
 | [AutoTSS](https://github.com/m1stadev/AutoTSS)             | A Discord bot that automatically saves SHSH blobs for all of your iOS devices. |
+| [Criptam](https://github.com/m1stadev/Criptam)             | iOS firmware key decrypter.                                                    |
 | [AppleReleases](https://github.com/m1stadev/AppleReleases) | A Discord bot that notifies you of any software releases from Apple.           |
 | [ios-beta-api](https://github.com/m1stadev/ios-beta-api)   | A Flask API that serves beta iOS firmware info using The iPhone Wiki data.     |
 | [Inferius](https://github.com/m1stadev/Inferius)           | Create & Restore 64-bit custom IPSWs.                                          |
-| [Phantom](https://github.com/m1stadev/Phantom)             | Personal Discord bot aimed at replacing functions of popular Discord bots.     |
-| [AutoTSS-cli](https://github.com/m1stadev/autotss-cli)     | [AutoTSS](https://github.com/m1stadev/AutoTSS), but CLI.                       |
 
 ### Contributions
 - I'm a maintainer of [Procursus](https://github.com/ProcursusTeam/Procursus), a powerful and modern *OS bootstrap + cross compilation system with frequently updated UNIX tools.
