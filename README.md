@@ -4,13 +4,14 @@
 I'm a Python developer that's interested in iOS jailbreaking.
 
 ## Projects
-| Project                                                    | Description                                                                    |
-|------------------------------------------------------------|--------------------------------------------------------------------------------|
-| [AutoTSS](https://github.com/m1stadev/AutoTSS)             | A Discord bot that automatically saves SHSH blobs for all of your iOS devices. |
-| [Criptam](https://github.com/m1stadev/Criptam)             | iOS firmware key decrypter.                                                    |
-| [AppleReleases](https://github.com/m1stadev/AppleReleases) | A Discord bot that notifies you of any software releases from Apple.           |
-| [ios-beta-api](https://github.com/m1stadev/ios-beta-api)   | A Flask API that serves beta iOS firmware info using The iPhone Wiki data.     |
-| [Inferius](https://github.com/m1stadev/Inferius)           | Create & Restore 64-bit custom IPSWs.                                          |
+| Project                                                    | Description                                                                                                       |
+|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| [AutoTSS](https://github.com/m1stadev/AutoTSS)             | A Discord bot that automatically saves SHSH blobs for all of your iOS devices.                                    |
+| [PyIMG4](https://github.com/m1satdev/PyIMG4)               | A Python library/CLI tool for parsing Apple's [IMG4 format](https://www.theiphonewiki.com/wiki/IMG4_File_Format). |
+| [Criptam](https://github.com/m1stadev/Criptam)             | iOS firmware key decrypter.                                                                                       |
+| [AppleReleases](https://github.com/m1stadev/AppleReleases) | A Discord bot that notifies you of any software releases from Apple.                                              |
+| [ios-beta-api](https://github.com/m1stadev/ios-beta-api)   | A Flask API that serves beta iOS firmware info using The iPhone Wiki data.                                        |
+| [Inferius](https://github.com/m1stadev/Inferius)           | Create & Restore 64-bit custom IPSWs.                                                                             |
 
 ### Contributions
 - I'm a maintainer of [Procursus](https://github.com/ProcursusTeam/Procursus), a powerful and modern *OS bootstrap + cross compilation system with frequently updated UNIX tools.
