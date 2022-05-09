@@ -7,7 +7,7 @@ I'm a Python developer that's interested in iOS jailbreaking.
 | Project                                                    | Description                                                                                                       |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | [AutoTSS](https://github.com/m1stadev/AutoTSS)             | A Discord bot that automatically saves SHSH blobs for all of your iOS devices.                                    |
-| [PyIMG4](https://github.com/m1stadev/PyIMG4)               | A Python library/CLI tool for parsing Apple's [IMG4 format](https://www.theiphonewiki.com/wiki/IMG4_File_Format). |
+| [PyIMG4](https://github.com/m1stadev/PyIMG4)               | A Python library/CLI tool for parsing Apple's [Image4 format](https://www.theiphonewiki.com/wiki/IMG4_File_Format). |
 | [Criptam](https://github.com/m1stadev/Criptam)             | iOS firmware key decrypter.                                                                                       |
 | [AppleReleases](https://github.com/m1stadev/AppleReleases) | A Discord bot that notifies you of any software releases from Apple.                                              |
 | [ios-beta-api](https://github.com/m1stadev/ios-beta-api)   | A Flask API that serves beta iOS firmware info using The iPhone Wiki data.                                        |
