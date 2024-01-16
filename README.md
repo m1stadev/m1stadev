@@ -21,5 +21,4 @@ I'm a hobbyist Python developer that's interested in low-level iOS.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m1stadev&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/m1stadev)
 
 ### Contact Information
-- [Reddit](https://m1sta.xyz/reddit)
 - [Twitter](https://m1sta.xyz/twitter)
