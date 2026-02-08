@@ -14,11 +14,8 @@ I'm a hobbyist Python developer that's interested in low-level iOS.
 
 ### github stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=m1stadev&show_icons=true&count_private=true&theme=dark)](https://github.com/m1stadev)
+[![Github Stats](./profile/stats.svg)](https://github.com/m1stadev)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=m1stadev&theme=dark)](https://github.com/m1stadev)
+[![Wakatime Stats](./profile/wakatime.svg)](https://github.com/m1stadev)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m1stadev&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/m1stadev)
-
-### contact info
-- [Twitter](https://m1sta.xyz/twitter)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/m1stadev)
