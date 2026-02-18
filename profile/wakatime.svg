@@ -121,16 +121,16 @@
     <svg x="0" y="0" width="100%">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="C++">C++:</text>
+      <text class="stat bold" y="12.5" data-testid="XML">XML:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >2 mins</text>
+      >23 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="66.02%">
+      <svg data-testid="lang-progress" width="84.57%">
         <rect
             height="8"
             fill="#fff"
@@ -144,6 +144,29 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
+      <text class="stat bold" y="12.5" data-testid="C++">C++:</text>
+      <text
+        class="stat"
+        x="350"
+        y="12.5"
+      >2 mins</text>
+      
+    <svg width="220" x="110" y="4">
+      <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
+      <svg data-testid="lang-progress" width="9.21%">
+        <rect
+            height="8"
+            fill="#fff"
+            rx="5" ry="5" x="0" y="0"
+            class="lang-progress"
+            style="animation-delay: 900ms;"
+        />
+      </svg>
+    </svg>
+  
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
       <text class="stat bold" y="12.5" data-testid="C">C:</text>
       <text
         class="stat"
@@ -153,13 +176,13 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="33.98%">
+      <svg data-testid="lang-progress" width="4.74%">
         <rect
             height="8"
             fill="#fff"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
-            style="animation-delay: 900ms;"
+            style="animation-delay: 1050ms;"
         />
       </svg>
     </svg>
