@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">adam's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 716, Total Commits  (last year) : 65, Total PRs: 172, Total Issues: 82, Contributed to (last year): 2</desc>
+        <title id="titleId">adam's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 717, Total Commits  (last year) : 58, Total PRs: 172, Total Issues: 82, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 59.4610475334347;
+        stroke-dashoffset: 64.4753952162845;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A-
         </text>
       
         </g>
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >716</text>
+      >717</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >65</text>
+      >58</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
